@@ -158,3 +158,30 @@ margin-bottom: 130px;
   margin-top: 10px;
   
 }
+.resume-container {
+  display: flex;
+  gap: 24px;
+
+}
+.experience-description {
+  font-size: 16px;
+  color: #757575;
+  margin-top: 10px;
+}
+.experience-subtitle{
+  font-size: 20px;
+  color: #757575;
+  font-weight: 600;
+  margin-bottom: 20px;
+}
+.experience-subtitle{
+  font-size: 20px;
+  color: #757575;
+  font-weight: 600;
+}
+.resume-button{
+  margin-top: 50px;
+}
+.section-title{
+  text-align: center;
+}
